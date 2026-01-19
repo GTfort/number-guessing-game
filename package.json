@@ -1,0 +1,25 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "description": "A CLI number guessing game with multiple difficulty levels",
+  "main": "index.js",
+  "bin": {
+    "guess-number": "./index.js"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": ["game", "cli", "guessing", "numbers"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.12",
+    "gradient-string": "^2.0.2",
+    "figlet": "^1.7.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
