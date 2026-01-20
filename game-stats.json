@@ -1,0 +1,23 @@
+{
+  "totalGames": 2,
+  "gamesWon": 2,
+  "gamesLost": 0,
+  "totalAttempts": 16,
+  "totalScore": 1028,
+  "averageScore": 514,
+  "bestScore": 660,
+  "byDifficulty": {
+    "easy": {
+      "games": 2,
+      "wins": 2,
+      "bestScore": 660,
+      "averageScore": 514,
+      "totalScore": 1028
+    }
+  },
+  "streak": {
+    "current": 2,
+    "best": 2
+  },
+  "playTime": 172
+}

@@ -10,14 +10,19 @@
     "test": "jest",
     "start": "node index.js"
   },
-  "keywords": ["game", "cli", "guessing", "numbers"],
-  "author": "Your Name",
+  "keywords": [
+    "game",
+    "cli",
+    "guessing",
+    "numbers"
+  ],
+  "author": "Itode Fortune",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^5.3.0",
-    "inquirer": "^9.2.12",
+    "chalk": "^4.1.2",
+    "figlet": "^1.7.0",
     "gradient-string": "^2.0.2",
-    "figlet": "^1.7.0"
+    "inquirer": "^9.2.12"
   },
   "devDependencies": {
     "jest": "^29.7.0"
